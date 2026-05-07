@@ -2,6 +2,9 @@
 
 Etienne Levecque, Aurélien Noirault, Tomáš Pevný, Jan Butora, Patrick Bas, Rémi Cogranne
 
+## [>> Read the paper here <<](https://arxiv.org/abs/2510.12414)
+
+
 ## Installation
 
 Download the repository:
